@@ -1,0 +1,30 @@
+*{
+	margin:0px;
+	padding:0px;
+	}
+.header{
+	background-color:rgba(51,153,0,1);
+	height:100px;
+	}
+.section{
+	height:900px;
+	
+	}
+.footer{
+	background-color:rgba(51,153,0,1);
+	height:100px;
+	}
+.box{
+	background-color:rgba(0,153,204,1);
+	height:333px;
+	width:333px;
+	float:left;
+	margin-top:60px;
+	margin-left:80px;
+	border-width:3px;
+	border-style:double;
+	border-color:rgba(0,0,0,1);
+	}
+.box5{
+	background-image:url(../../Capture.JPG);
+	}
